@@ -72,8 +72,8 @@ hittable_list random_scene() {
 
 
 int main() {
-	const int image_width = 1920;
-	const int image_height = 1080;
+	const int image_width = 800;
+	const int image_height = 400;
 	const int samples_per_pixel = 100;
 	const int max_depth = 50;
 
